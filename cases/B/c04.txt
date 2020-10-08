@@ -1,0 +1,6 @@
+Count[03]=04;
+Count[05]=03;
+Count[04]=02;
+Count[06]=02;
+Count[02]=01;
+Median word length: 4.0

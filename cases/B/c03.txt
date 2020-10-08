@@ -1,0 +1,2 @@
+Count[26]=01;
+Median word length: 26.0

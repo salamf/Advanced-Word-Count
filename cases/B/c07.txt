@@ -1,0 +1,9 @@
+Count[03]=39;
+Count[02]=24;
+Count[04]=11;
+Count[05]=07;
+Count[01]=03;
+Count[06]=01;
+Count[07]=01;
+Count[09]=01;
+Median word length: 4.5

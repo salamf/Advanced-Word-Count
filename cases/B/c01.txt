@@ -1,0 +1,1 @@
+Median word length: 0.0

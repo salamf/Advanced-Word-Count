@@ -1,0 +1,2 @@
+Count[16]=01;
+Median word length: 16.0

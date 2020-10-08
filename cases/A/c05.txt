@@ -1,0 +1,6 @@
+Count[02]=04;
+Count[03]=05;
+Count[04]=04;
+Count[06]=02;
+Count[07]=01;
+Count[11]=01;
